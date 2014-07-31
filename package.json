@@ -1,5 +1,5 @@
 {
-  "name": "grunt-jst-prpend",
+  "name": "grunt-jst-prepend",
   "description": "Prepend some variables to the generated template files by grunt-contrib-jst module.",
   "version": "0.0.1",
   "homepage": "https://github.com/chemdemo/grunt-jst-prepend",

@@ -1,4 +1,4 @@
-# grunt-jst-prpend v0.0.1 [![Build Status: Linux](https://travis-ci.org/chemdemo/grunt-jst-prepend.png?branch=master)](https://travis-ci.org/chemdemo/grunt-jst-prepend)
+# grunt-jst-prepend v0.0.1 [![Build Status: Linux](https://travis-ci.org/chemdemo/grunt-jst-prepend.png?branch=master)](https://travis-ci.org/chemdemo/grunt-jst-prepend)
 
 > Prepend some variables to the generated template files by grunt-contrib-jst module.
 
@@ -6,13 +6,13 @@
 This plugin requires Grunt `~0.4.0`
 
 ```shell
-npm install grunt-jst-prpend --save-dev
+npm install grunt-jst-prepend --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-jst-prpend');
+grunt.loadNpmTasks('grunt-jst-prepend');
 ```
 
 ### Options
