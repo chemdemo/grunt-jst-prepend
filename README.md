@@ -27,7 +27,7 @@ prepend: function() {
   var vars = function() {
     var _ = {};
 
-    _.escape = function() {
+    _.escape = function(string) {
       var escapeMap = {
         '&': '&amp;',
         '<': '&lt;',
