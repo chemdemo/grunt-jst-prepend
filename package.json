@@ -42,7 +42,8 @@
     "grunt": "~0.4.0"
   },
   "keywords": [
-    "gruntplugin jst"
+    "gruntplugin",
+    "jst"
   ],
   "files": [
     "tasks",
