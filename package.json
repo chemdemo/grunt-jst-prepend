@@ -29,7 +29,7 @@
   "dependencies": {
     "lodash": "~2.4.1",
     "grunt-lib-contrib": "~0.7.0",
-    "chalk": "~0.4.0"
+    "chalk": "~1.0.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.8.0",
